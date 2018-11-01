@@ -26,11 +26,12 @@ Plugin ini digunakan untuk sinkronisasi data-data dari R-Engine ke Woocommerce
 	-	Go to Setting
 	
 ![enter image description here](https://3.bp.blogspot.com/-MOrxfIuiGxI/W9rMX1uHYrI/AAAAAAAABt4/lSS6ue31GY0V19Nzz1wpVzbQ-zSB-2_TACLcBGAs/s640/1.PNG)
-
-	-	Choose Advance tab and choose REST API
-
+	
+    -	Choose Advance tab and choose REST API
+	
 ![enter image description here](https://3.bp.blogspot.com/-8ZhP8Nuy04U/W9rMYBN5HCI/AAAAAAAABuA/Lf7CY2GdEswQ_6ju81trg1g8JbBFjdjrACLcBGAs/s640/2.PNG)
-	-	Add new REST API and make sure Permissions is Read/Write
+	
+    -	Add new REST API and make sure Permissions is Read/Write
 
 ![enter image description here](https://1.bp.blogspot.com/-5vvjP0pnWGA/W9rMX50o-UI/AAAAAAAABt8/hsTVE7HdxSMZrNZx_guuh8YttxffQp_sACLcBGAs/s640/3.PNG)
 
@@ -46,7 +47,7 @@ Plugin ini digunakan untuk sinkronisasi data-data dari R-Engine ke Woocommerce
 
 ![enter image description here](https://2.bp.blogspot.com/-zZo0ivr_HM4/W9rOMzHGB-I/AAAAAAAABuU/CInniGCpNy4zxDj6xnKsj8eM4QB506EZQCLcBGAs/s640/7.PNG)
 
-5. Start Syncronize!
+6. Start Syncronize!
 
 ![enter image description here](https://1.bp.blogspot.com/-VqauLasObq0/W9rOMyxsFSI/AAAAAAAABuc/5zW4b1bYhnAvi3tKIXSqFlTmfXK2VyfawCLcBGAs/s640/8.PNG)
 
