@@ -41,11 +41,11 @@ Plugin ini digunakan untuk sinkronisasi data-data dari R-Engine ke Woocommerce
 
 3. Login to your Roketin Plugin using R-Engine Account
 
-![enter image description here](https://2.bp.blogspot.com/-OFheMcAoLVs/W9rQtfiGbPI/AAAAAAAABu4/omtjZgYydOEzv-5J40KYDWQ1VK5tV__pQCLcBGAs/s640/7.PNG)
+![enter image description here](https://4.bp.blogspot.com/-M_OEmsGlZVQ/W9rOM5gGrVI/AAAAAAAABuY/1oGt3sCSwg08Z8tRkuvi9kQa2Pzl5cYXwCLcBGAs/s640/6.PNG)
 
 4. Insert your Consumer Key and Consumer Secret
 
-![enter image description here](https://2.bp.blogspot.com/-zZo0ivr_HM4/W9rOMzHGB-I/AAAAAAAABuU/CInniGCpNy4zxDj6xnKsj8eM4QB506EZQCLcBGAs/s640/7.PNG)
+![enter image description here](https://2.bp.blogspot.com/-OFheMcAoLVs/W9rQtfiGbPI/AAAAAAAABu4/omtjZgYydOEzv-5J40KYDWQ1VK5tV__pQCLcBGAs/s640/7.PNG)
 
 6. Start Syncronize!
 
