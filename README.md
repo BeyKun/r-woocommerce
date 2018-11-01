@@ -2,7 +2,7 @@
 
 ![enter image description here](https://1.bp.blogspot.com/-jtZAuaJsftU/W9rI7sq10jI/AAAAAAAABto/yTE3Hsq3_CEc2EYEL6lbECf7aQCr6HrYACLcBGAs/s640/23456.png)
 
-Plugin ini digunakan untuk sinkronisasi data-data dari R-Engine ke Woocommerce
+This plugin is used to synchronize data from R-Engine to Woocommerce
 
 **Feature**
 
