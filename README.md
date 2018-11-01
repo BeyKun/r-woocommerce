@@ -25,19 +25,19 @@ Plugin ini digunakan untuk sinkronisasi data-data dari R-Engine ke Woocommerce
 2. Generate your Consumer Key and Consumer Secret 
 	-	Go to Setting
 	
-![enter image description here](https://3.bp.blogspot.com/-MOrxfIuiGxI/W9rMX1uHYrI/AAAAAAAABt4/lSS6ue31GY0V19Nzz1wpVzbQ-zSB-2_TACLcBGAs/s640/1.PNG)
+    ![enter image description here](https://3.bp.blogspot.com/-MOrxfIuiGxI/W9rMX1uHYrI/AAAAAAAABt4/lSS6ue31GY0V19Nzz1wpVzbQ-zSB-2_TACLcBGAs/s640/1.PNG)
 	
     -	Choose Advance tab and choose REST API
 	
-![enter image description here](https://3.bp.blogspot.com/-8ZhP8Nuy04U/W9rMYBN5HCI/AAAAAAAABuA/Lf7CY2GdEswQ_6ju81trg1g8JbBFjdjrACLcBGAs/s640/2.PNG)
+    ![enter image description here](https://3.bp.blogspot.com/-8ZhP8Nuy04U/W9rMYBN5HCI/AAAAAAAABuA/Lf7CY2GdEswQ_6ju81trg1g8JbBFjdjrACLcBGAs/s640/2.PNG)
 	
     -	Add new REST API and make sure Permissions is Read/Write
 
-![enter image description here](https://1.bp.blogspot.com/-5vvjP0pnWGA/W9rMX50o-UI/AAAAAAAABt8/hsTVE7HdxSMZrNZx_guuh8YttxffQp_sACLcBGAs/s640/3.PNG)
+    ![enter image description here](https://1.bp.blogspot.com/-5vvjP0pnWGA/W9rMX50o-UI/AAAAAAAABt8/hsTVE7HdxSMZrNZx_guuh8YttxffQp_sACLcBGAs/s640/3.PNG)
 
 	- Copy your consumer key and consumer secret
 
-![enter image description here](https://2.bp.blogspot.com/-UPOgwLZxqBc/W9rP6_SUWlI/AAAAAAAABuw/KmxmjghLY8wkL0Q5qJ3kts8eekLprJRkQCLcBGAs/s640/10.PNG)
+    ![enter image description here](https://2.bp.blogspot.com/-UPOgwLZxqBc/W9rP6_SUWlI/AAAAAAAABuw/KmxmjghLY8wkL0Q5qJ3kts8eekLprJRkQCLcBGAs/s640/10.PNG)
 
 3. Login to your Roketin Plugin using R-Engine Account
 
